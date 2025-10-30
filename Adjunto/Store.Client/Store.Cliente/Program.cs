@@ -134,7 +134,7 @@ namespace Store.Client
                     Console.WriteLine($"ID: {item.id}");
                     Console.WriteLine($"Nombre: {item.name}");
                     Console.WriteLine($"Stock: {item.stock}");
-                    Console.WriteLine($"Precio: {item.unit_price}");
+                    Console.WriteLine($"Precio: {item.unitPrice}");
                     Console.WriteLine(new string('-', 35));
                 }
             }
