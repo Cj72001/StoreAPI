@@ -45,7 +45,7 @@ Esta API está desarrollada con **C# .NET** siguiendo un **patrón de capas** (C
 - Se utilizó **SQL Server (SQLEXPRESS)** en la máquina local.  
 - **Diagrama relacional:**
 
-![Diagrama Relacional](Adjunto/StoreAPI - DR.pdf)
+![Diagrama Relacional](Adjunto/StoreAPI_DR.png)
 
 **Stored Procedures principales:**
 - `sp_add_product`  
