@@ -3,6 +3,8 @@
 ## Descripción
 Esta API está desarrollada con **C# .NET** siguiendo un **patrón de capas** (Core, Infrastructure, API). Permite la gestión de productos, stock, precios y compras, implementando buenas prácticas de arquitectura, seguridad y patrones de diseño.
 
+En la carpeta Adjunto encontrara la app cliente (C# consola), Script (Tablas, SP, etc) y DR de BDD
+
 ---
 
 ## Arquitectura
