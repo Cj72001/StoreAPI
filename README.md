@@ -43,7 +43,7 @@ En la carpeta Adjunto encontrara la app cliente (C# consola), Script (Tablas, SP
 
 ---
 
-## 🗄 Base de datos
+## Base de datos
 - Se utilizó **SQL Server (SQLEXPRESS)** en la máquina local.  
 - **Diagrama relacional:**
 
